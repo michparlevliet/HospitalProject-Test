@@ -182,22 +182,22 @@
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Controllers\AccountController.cs" />
-<<<<<<< HEAD
+
     <Compile Include="Controllers\AppointmentsDataController.cs" />
-=======
+
     <Compile Include="Controllers\CareersDataController.cs" />
->>>>>>> 9f4b89177e41b71cbbb3158be9d86c94ef4ebf8f
+
     <Compile Include="Controllers\DepartmentsDataController.cs" />
     <Compile Include="Controllers\DonationsDataController.cs" />
     <Compile Include="Controllers\FAQDataController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
-<<<<<<< HEAD
+
     <Compile Include="Controllers\PatientsDataController.cs" />
-=======
+
     <Compile Include="Controllers\ProgramsDataController.cs" />
     <Compile Include="Controllers\ServicesDataController.cs" />
->>>>>>> 9f4b89177e41b71cbbb3158be9d86c94ef4ebf8f
+
     <Compile Include="Controllers\StaffsDataController.cs" />
     <Compile Include="Controllers\VolunteersDataController.cs" />
     <Compile Include="Global.asax.cs">
